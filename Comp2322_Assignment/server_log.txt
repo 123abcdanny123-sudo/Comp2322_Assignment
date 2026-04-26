@@ -1,0 +1,10 @@
+127.0.0.1, 2026-04-26 23:27:19, index.html, 404 File Not Found
+127.0.0.1, 2026-04-26 23:27:19, index.html, 404 File Not Found
+127.0.0.1, 2026-04-26 23:27:19, nonexistent.html, 404 File Not Found
+127.0.0.1, 2026-04-26 23:27:19, N/A, 400 Bad Request
+127.0.0.1, 2026-04-26 23:27:19, index.html, 404 File Not Found
+127.0.0.1, 2026-04-26 23:43:08, index.html, 404 File Not Found
+127.0.0.1, 2026-04-26 23:43:08, index.html, 404 File Not Found
+127.0.0.1, 2026-04-26 23:43:08, nonexistent.html, 404 File Not Found
+127.0.0.1, 2026-04-26 23:43:08, N/A, 400 Bad Request
+127.0.0.1, 2026-04-26 23:43:08, index.html, 404 File Not Found

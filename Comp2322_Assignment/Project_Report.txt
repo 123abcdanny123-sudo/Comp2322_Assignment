@@ -1,0 +1,9 @@
+'''
+Server workflow
+1. server start
+2. Recieve request from client
+    2.1parse
+    2.2 check if it has Get & Head command
+3.Send back the response
+4. write log
+'''
